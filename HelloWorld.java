@@ -34,6 +34,11 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
+    System.out.println("Hello, Jenkins");
+    System.out.println("Good to start jenkins");
+    System.out.println("Hello, have a good breathe");
     System.out.println("Hello, World");
+
+
   }
 }
