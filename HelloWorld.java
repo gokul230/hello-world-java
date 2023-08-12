@@ -39,6 +39,8 @@ public class HelloWorld {
     System.out.println("Hello, have a good breathe");
     System.out.println("Hello, World");
     System.out.println("Hello, have a good breathe");
+    System.out.println("Hello, papa");
+    System.out.println("Hello, have a good life ahead");
     System.out.println("Hello, have a good breathe");
     System.out.println("Hello, have a good weekend");
 
